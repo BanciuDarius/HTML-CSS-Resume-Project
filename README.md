@@ -1,5 +1,7 @@
 # HTML-CSS-Resume-Project
 In this project I learned at GoIT Courses how to make your own resume on a web page with HTML and CSS.
+
+
 🔸Hard Skills
 I got familiarized with layout. 
 I learned to open a design, work in the code editor. 
